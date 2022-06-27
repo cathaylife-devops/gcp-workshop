@@ -210,3 +210,5 @@
 > Terraform Cloud: https://cloud.hashicorp.com/products/terraform
 
 > Terraform Enterprise: https://www.terraform.io/enterprise
+
+> Automating Infrastructure on Google Cloud with Terraform: https://www.cloudskillsboost.google/quests/159
