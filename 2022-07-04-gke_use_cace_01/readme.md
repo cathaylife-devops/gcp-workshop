@@ -2,7 +2,7 @@
 
 Topics: GKE, Kubernetes, Jenkins, Git
 
-Lab: [Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10603?parent=catalog)
+Lab: [Deploy to Kubernetes in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10457?parent=catalog)
 
 ## Lab
 
